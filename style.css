@@ -1,5 +1,99 @@
 /*
-  * developlab css v0.0.1 (https://developlab.ir/css/)
+  * Developlab css v0.0.1 (https://developlab.ir/css/)
+  * Developlab source (https://github.com/aboalfazlH/Developlab-css)
   * Copyright 2025 The Developlab css Authors (https://github.com/aboalfazlH/Developlab-css/graphs/contributors)
   * Licensed under MIT (https://github.com/aboalfazlH/Developlab-css/blob/main/LICENSE)
 */
+.ir-button {
+  padding: 0.6rem;
+  border-radius: 8px;
+  border: 0;
+  transition: all ease 250ms;
+}
+.ir-button:hover {
+  padding: 0.6rem;
+  border-radius: 8px;
+  border: 0;
+  border-radius: 10px;
+}
+.ir-button:active {
+  border-radius: 12px;
+}
+.ir-large {
+  padding: 0.75rem;
+  font-size: 1.125rem;
+}
+.ir-large:hover {
+  padding: 0.75rem;
+  font-size: 1.125rem;
+}
+.ir-large:active {
+  padding: 0.75rem;
+  font-size: 1.125rem;
+}
+.ir-small {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.875rem;
+}
+.ir-small:hover {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.875rem;
+}
+.ir-small:active {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.875rem;
+}
+.ir-green {
+  background-color: #00cc00;
+}
+.ir-green:hover {
+  background-color: #009900;
+}
+.ir-green:active {
+  background-color: #006600;
+}
+.ir-red {
+  background-color: #cc0000;
+}
+.ir-red:hover {
+  background-color: #990000;
+}
+.ir-red:active {
+  background-color: #660000;
+}
+.ir-blue {
+  background-color: #0000cc;
+}
+.ir-blue:hover {
+  background-color: #000099;
+}
+.ir-blue:active {
+  background-color: #000066;
+}
+.ir-yellow {
+  background-color: #cccc00;
+}
+.ir-yellow:hover {
+  background-color: #999900;
+}
+.ir-yellow:active {
+  background-color: #666600;
+}
+.ir-purple {
+  background-color: #cc00cc;
+}
+.ir-purple:hover {
+  background-color: #990099;
+}
+.ir-purple:active {
+  background-color: #660066;
+}
+.ir-aqua {
+  background-color: #00cccc;
+}
+.ir-aqua:hover {
+  background-color: #009999;
+}
+.ir-aqua:active {
+  background-color: #006666;
+}
