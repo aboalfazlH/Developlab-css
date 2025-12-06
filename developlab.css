@@ -97,3 +97,81 @@
 .ir-aqua:active {
   background-color: #006666;
 }
+.ir-large-text {
+  padding: 0.75rem;
+  font-size: 1.125rem;
+}
+.ir-large-text:hover {
+  padding: 0.75rem;
+  font-size: 1.125rem;
+}
+.ir-large-text:active {
+  padding: 0.75rem;
+  font-size: 1.125rem;
+}
+.ir-small-text {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.875rem;
+}
+.ir-small-text:hover {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.875rem;
+}
+.ir-small-text:active {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.875rem;
+}
+.ir-green-text {
+  color: #00cc00;
+}
+.ir-green-text:hover {
+  color: #009900;
+}
+.ir-green-text:active {
+  color: #006600;
+}
+.ir-red-text {
+  color: #cc0000;
+}
+.ir-red-text:hover {
+  color: #990000;
+}
+.ir-red-text:active {
+  color: #660000;
+}
+.ir-blue-text {
+  color: #0000cc;
+}
+.ir-blue-text:hover {
+  color: #000099;
+}
+.ir-blue:active-text {
+  color: #000066;
+}
+.ir-yellow-text {
+  color: #cccc00;
+}
+.ir-yellow-text:hover {
+  color: #999900;
+}
+.ir-yellow-text:active {
+  color: #666600;
+}
+.ir-purple-text {
+  color: #cc00cc;
+}
+.ir-purple-text:hover {
+  color: #990099;
+}
+.ir-purple-text:active {
+  color: #660066;
+}
+.ir-aqua-text {
+  color: #00cccc;
+}
+.ir-aqua-text:hover {
+  color: #009999;
+}
+.ir-aqua-text:active {
+  color: #006666;
+}
